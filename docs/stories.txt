@@ -1,0 +1,56 @@
+'''
+Theme: Quiz
+Epic: As a quizzer I want to play a quiz to test my knowledge.
+User Stories (Analysis):
+1. As a quizzer I would like to play a quiz to see how clever I am.
+2. As a quizzer I would like different categories of questions to
+    provide variety and cater for my specialist subjects.
+3. As a quizzer I would like to record my high score, average score and
+    low score for each question category so that I can keep track of my progress.
+4. As a quizzer I want a large choice of questions, so that I am not
+    answering the same questions all the time.
+5. As a quizzer I want to set the difficulty level of the questions to set them against my skill level.
+
+5. As a quizmaster I want to create categories of questions so that I can add variety to the quiz.
+6. As a quizmaster I want to create questions so that I can ask them to a quizzer.
+7. As a quizmaster I want to ask the user a question they haven't been asked before.
+8. As a quizmaster I want to record the number of times quizzers have played the quiz, to monitor
+    how popular the quiz is.
+9. As a quizmaster I want to rank the best quizzers so I can produce a high score table.
+
+Sprint 1:
+1. As a quizzer I would like to play a quiz to see how clever I am.
+6. As a quizmaster I want to create questions so that I can ask them to a quizzer.
+
+Class Diagram (Design):
+    Quiz - 10 Random questions, Score
+    Question - A question.
+
+Sprint 2:
+3. As a quizzer I would like to record my high score, average score and
+    low score for each question category so that I can keep track of my progress.
+8. As a quizmaster I want to record the number of times quizzers have played the quiz, to monitor
+    how popular the quiz is.
+
+Sprint 3:
+2. As a quizzer I would like different categories of questions to
+    provide variety and cater for my specialist subjects.
+5. As a quizmaster I want to create categories of questions so that I can add variety to the quiz.
+
+Sprint 4:
+4. As a quizzer I want a large choice of questions, so that I am not
+    answering the same questions all the time.
+7. As a quizmaster I want to ask the user a question they haven't been asked before.
+
+Sprint 5:
+9. As a quizmaster I want to rank the best quizzers so I can produce a high score table.
+
+UML Class Diagram To Be Created (Design)):
+
+Create a quizzer class to manage quizzer accounts.
+Create a quiz class to manage playing a quiz.
+Create a quizmaster class to manage questions.
+Create a category class that questions are grouped by.
+Create a question class and assign it to a category.
+Create a question tracker class to ensure users aren't asked the same questions twice.
+'''

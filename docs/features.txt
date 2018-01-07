@@ -1,0 +1,213 @@
+Analysis Section:
+
+    Task Explanation:
+        Creating a quiz to test students' knowledge on different topics. This will allow a user to create a quiz
+        account, answer questions on various categories, record their score and allow them to compare score against
+        previous attempts and other quiz user.
+
+        It will also include an admin interface to allow an admin to add questions and administer user info.
+
+    The topics will be:
+
+    History
+    Geography
+    Science
+    etc.
+
+Task and Sub-Task Breakdown:
+
+    1) Display Menu
+        a) Login
+        b) Register
+        c) View My High Scores
+        d) View All High Scores
+        e) Quit
+
+
+    2) Register A User
+        a) Enter User Details
+        b) Check if account exists
+        c) Save user details
+        d) Login and Play Quiz
+
+
+    3) User Log In
+        a) Enter User Name
+        b) Check Valid User
+        c) Login User
+
+    4) Take Quiz
+        a) Choose A Category
+        b) Choose A Difficulty
+        c) Answer Questions
+        d) Check Score
+        e) Save Score
+        f) Return Menu
+
+    5) Record High Score
+        a) Record Category/Difficulty High Score
+        b) Record Overall/Difficulty High Score
+
+    6) View High Scores
+        a) View Category/Difficulty High Score
+        b) View Overall/Difficult High Score
+        c) View User Statistics
+
+    7) Admin
+        a) Create, Read, Update and Delete (CRUD) Users
+        b) Create, Read, Update and Delete Categories
+        c) Create, Read, Update and Delete Questions
+
+
+Design Section:
+
+    Flowchart:
+
+
+
+     Requirements:
+
+     1) Display Menu
+
+         Description:
+
+         Success Criteria:
+
+         IPOD table:
+
+         Pseudocode:
+
+         Flowchart:
+
+         Test Plan:
+
+
+     2) Register A User
+
+         Description:
+
+         Success Criteria:
+
+         IPOD table:
+
+         Pseudocode:
+
+         Flowchart:
+
+         Test Plan:
+
+
+        Students must register before taking the quiz, choosing an unique username and password for the account. The username
+        and password are saved to an external text file.
+
+        Tasks:
+        - The user must enter the following details about themselves:
+
+        Variables:
+        Full Name - A string of maximum 50 characters and converted to lower case
+        Age - An integer
+        Year Group - An integer
+
+        Success Criteria:
+
+
+     3) User Login
+
+         Description:
+
+         Success Criteria:
+
+         IPOD table:
+
+         Pseudocode:
+
+         Flowchart:
+
+         Test Plan:
+
+
+
+     4) Take Quiz
+
+         Description:
+
+         Success Criteria:
+
+         IPOD table:
+
+         Pseudocode:
+
+         Flowchart:
+
+         Test Plan:
+
+
+     5) Record High Score
+
+         Description:
+
+         Success Criteria:
+
+         IPOD table:
+
+         Pseudocode:
+
+         Flowchart:
+
+         Test Plan:
+
+
+
+     6) View High Scores
+
+         Description:
+
+         Success Criteria:
+
+         IPOD table:
+
+         Pseudocode:
+
+         Flowchart:
+
+         Test Plan:
+
+
+     7) Admin
+
+         Description:
+
+         Success Criteria:
+
+         IPOD table:
+
+         Pseudocode:
+
+         Flowchart:
+
+         Test Plan:
+
+
+
+Development Section:
+
+    1) Code Screenshot
+    2) Commented Code
+    3) Code Development
+    4) Problems Found
+    5) Test Plan
+
+
+Testing and Evaluation Section
+    1) Testing Table
+    2) Test Screenshots
+    3) Failed Tests
+    4) Test Evaluation
+
+
+Final Layout For Presentation Submission
+    1) Page/Slide Numbers
+    2) Footer that includes Name: John Marritt, Candidate Number: 5077 and Centre Number: 25312
+    3) Clear Headings
+    4) Spelling and Grammar Check
+
